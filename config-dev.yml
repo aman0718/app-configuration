@@ -2,5 +2,5 @@
 build:
   id: 201010102
   version: 2000.2.3
-  name: "PROD-GIT-production-Build"
-  type: "GIT Production Build"
+  name: "DEV-GIT-development-Build"
+  type: "GIT Development Build"
