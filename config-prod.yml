@@ -1,6 +1,6 @@
 
 build:
-  id: 201010102
-  version: 2000.2.3
+  id: 301010103
+  version: 3000.2.3
   name: "PROD-GIT-Production-Build"
   type: "GIT Production Build"
